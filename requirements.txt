@@ -1,1 +1,7 @@
-
+numpy
+pandas
+polars
+huggingface_hub
+torch
+seaborn
+matplotlib
