@@ -1,0 +1,8 @@
+# Local Real-IAD data and generated split indexes
+data/realiad_256/
+data/splits/
+
+# Python and training outputs
+__pycache__/
+*.py[cod]
+checkpoints/
